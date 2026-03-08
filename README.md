@@ -1,4 +1,4 @@
-# Prueba_1_Int_Art
+# PREDICCIÓN DEL SALARIO EN CIENCIA DE DATOS 
 
 ![Banner del Proyecto](/Banner.jpg) 
 
@@ -9,18 +9,14 @@
 * **Rances Alejandro Ramirez Morillo** — 2234514
 
 
-## **Objetivo**
-Sistema de detección y clasificación de residuos utilizando inteligencia artificial
+## Objetivo
+Desarrollar un modelo capaz de analizar diferentes variables relacionadas con profesionales del área de ciencia de datos, con el fin de estimar y predecir el salario de estos profesionales a partir de la información disponible, utilizando inteligencia artificial.
+
 
 ## **Dataset**
-Dataset con 3634 imagenes, clasificadas en 9 clases distintas de resudios respectivamente etiquetadas
+Dataset con aproximadamente 14,838 registros y 11 variables, que contienen información sobre empleos en el área de ciencia de datos entre 2020 y 2024.
 
-[Enlace de descarga](https://drive.google.com/drive/folders/1NNipl4H2t2WYa7hBJTlAvNAJAOG0YFux?usp=drive_link).
-
-Otros datasets utilizados:
-- https://github.com/garythung/trashnet
-- https://github.com/pedropro/TACO
-- https://www.immersivelimit.com/datasets/cigarette-butts
+[Enlace de descarga del dataset](https://www.kaggle.com/datasets/yusufdelikkaya/datascience-salaries-2024/data).
 
 ## **Modelos**
 - GaussianNB
@@ -30,6 +26,5 @@ Otros datasets utilizados:
 - Redes Neuronales Convolucionales 
 
 ## **Enlaces**
-- [Código](https://colab.research.google.com/drive/1ef_FIghwPs7OAXwWwIUETVRuCg2SRnGS#scrollTo=cge2NBbo0iVk)
-- [Video](https://youtu.be/6HLw5H6IT74)
+- [Google Colab](https://colab.research.google.com/drive/1UajKQo5mmP1FUNYlo5DARm6tceWA2GHp?usp=sharing)
 - [Repositorio](https://github.com/NDruz/Clasificacion-de-resudios)
