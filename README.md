@@ -2,10 +2,14 @@
 
 ![Banner del Proyecto](/Banner.jpg) 
 
-## **Autores**
-Andrés Felipe Jaimes Ojeda
-Anderson Jahir Lemus Ramírez 
-Hammer Ronaldo Muñoz Hernandez
+## Autores
+
+| Nombre                           | Código  |
+| -------------------------------- | ------- |
+| Jairo Armando Cardozo Mendoza    | 2224637 |
+| Jose Fernando Estévez Cárdenas   | 2224646 |
+| Rances Alejandro Ramirez Morillo | 2234514 |
+
 
 ## **Objetivo**
 Sistema de detección y clasificación de residuos utilizando inteligencia artificial
